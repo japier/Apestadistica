@@ -1,0 +1,21 @@
+{"formulas":[
+  {
+    "nombre":"Media",
+    "image":"http://image bla bla bla",
+    "content": {
+      "title":"Media"
+    }
+  },
+  {
+    "nombre":"Varianza",
+    "image":"http://image bla bla bla",
+    "content": {
+      "title":"Distribución de frecuencias.",
+      "descripcion":"Transmite resultados de una investigación de manera clara y concisa.",
+      "clase":{
+        "title":"clase",
+        "contenido":"bla bla bla"
+      }
+    }
+  }
+]}
